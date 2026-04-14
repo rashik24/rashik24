@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rashik 👋
 
-<!--
-**rashik24/rashik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD in Industrial Engineering  
+📊 Focus: AI and ML for Optimization, Humanitarian Systems  
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Food bank optimization models
+- ML for collaboration prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python | Gurobi | R | Tableau
+
+## 📫 Connect with me
+LinkedIn | Email
